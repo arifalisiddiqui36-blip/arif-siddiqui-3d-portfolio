@@ -3,6 +3,8 @@
 Personal portfolio of **Arif Siddiqui**, MCA student specialising in Cloud
 Computing (Pune, India) — Cloud Engineer · DevOps Enthusiast · Full Stack Developer.
 
+**Live site:** https://arif-siddiqui-3d-portfolio.vercel.app
+
 An immersive, fully animated single-page site: a shader-driven 3D hero, a
 draggable skills globe, interactive project case studies and an explorable 3D
 model of a cloud environment.
